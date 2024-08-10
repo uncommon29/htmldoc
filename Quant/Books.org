@@ -17,7 +17,7 @@ While some of these are dated, we benefit from the fact some foundations in math
 
 I hope you enjoy the list.
 
-Trading Systems and Quantitative Methods
+**Trading Systems and Quantitative Methods
 For those that are involved in the development and application of quant models, risk management, and algo trading systems, these books offer strategies for systematic trading.
 
 Quantitative Trading, by Chan: Introduction to basic quantitative trading on a retail level.
