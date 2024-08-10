@@ -17,52 +17,53 @@ While some of these are dated, we benefit from the fact some foundations in math
 
 I hope you enjoy the list.
 
-**Trading Systems and Quantitative Methods
+**Trading Systems and Quantitative Methods**
+
 For those that are involved in the development and application of quant models, risk management, and algo trading systems, these books offer strategies for systematic trading.
 
-Quantitative Trading, by Chan: Introduction to basic quantitative trading on a retail level.
+**Quantitative Trading**, by Chan: Introduction to basic quantitative trading on a retail level.
 
-Algorithmic Trading, by Chan: A more advanced book by Ernie, with a number of interesting strategies to try out and backtest.
+**Algorithmic Trading**, by Chan: A more advanced book by Ernie, with a number of interesting strategies to try out and backtest.
 
-Mechanical Trading Systems, by Weissman: Great book for strategies. Covers a plethora of momentum and mean reversion strategies on multiple time frames, along with backtested results.
+**Mechanical Trading Systems**, by Weissman: Great book for strategies. Covers a plethora of momentum and mean reversion strategies on multiple time frames, along with backtested results.
 
 Following the Trend, by Clenow: I consider this book, one of the best reads on the topic of Trend Following, a very popular trading strategy.
 
-Trade Your Way to Financial Freedom, by Tharp: Terrible title aside, this classic outlines a structured approach to developing a personal trading system that aligns with individual traders’ psychological.
+**Trade Your Way to Financial Freedom**, by Tharp: Terrible title aside, this classic outlines a structured approach to developing a personal trading system that aligns with individual traders’ psychological.
 
-Mathematics of Money Management, by Vince: Details the mathematical techniques for risk management and optimal money management in managing portfolios.
+**Mathematics of Money Management**, by Vince: Details the mathematical techniques for risk management and optimal money management in managing portfolios.
 
-Intermarket Trading Strategies, by Katsanos: Discusses the relationships between global markets and how understanding these can lead to building trading strategies.
+**Intermarket Trading Strategies**, by Katsanos: Discusses the relationships between global markets and how understanding these can lead to building trading strategies.
 
-Applied Quantitative Methods for Trading and Investment, by Dunis et al: A practical guide to applying quantitative techniques to real-world trading and investment situations.
+**Applied Quantitative Methods for Trading and Investment**, by Dunis et al: A practical guide to applying quantitative techniques to real-world trading and investment situations.
 
-Algorithmic Trading and DMA, by Johnson: An introduction to direct market access and algorithmic trading strategies. Dated but still an entertaining read (if you're into that kind of thing).
+**Algorithmic Trading and DMA**, by Johnson: An introduction to direct market access and algorithmic trading strategies. Dated but still an entertaining read (if you're into that kind of thing).
 
-Technical Analysis from A to Z, by Achelis: An encyclopedic reference of technical analysis indicators and their practical applications in trading.
+**Technical Analysis from A to Z**, by Achelis: An encyclopedic reference of technical analysis indicators and their practical applications in trading.
 
-Inside the Black Box, by Narang: Great book for a headstart on all the different aspects of quant trading. Very general information, but broadly brushes through every aspect of the business.
+**Inside the Black Box**, by Narang: Great book for a headstart on all the different aspects of quant trading. Very general information, but broadly brushes through every aspect of the business.
 
-The Concepts and Practice of Mathematical Finance, by Joshi: This book provides a clear understanding of the intuition behind derivatives pricing, how models are implemented, and how they are used and adapted in practice.
+**The Concepts and Practice of Mathematical Finance**, by Joshi: This book provides a clear understanding of the intuition behind derivatives pricing, how models are implemented, and how they are used and adapted in practice.
 
-Behavioral and Historical Perspectives
+**Behavioral and Historical Perspectives**
 These books are about the psychological aspects of trading and historical accounts of significant market events. They focus on the importance of market psychology and the impact of human behavior on decision-making.
 
-Reminiscences of a Stock Operator, by Lefèvre: A narrative that provides insight into the life and strategies of the legendary trader Jesse Livermore The book is packed with trading wisdom and market psychology.
+**Reminiscences of a Stock Operator**, by Lefèvre: A narrative that provides insight into the life and strategies of the legendary trader Jesse Livermore The book is packed with trading wisdom and market psychology.
 
-When Genius Failed, by Lowenstein: Chronicles the rise and fall of Long-Term Capital Management, one of the most storied hedge funds of all times.
+**When Genius Failed**, by Lowenstein: Chronicles the rise and fall of Long-Term Capital Management, one of the most storied hedge funds of all times.
 
-Predictably Irrational, by Ariely: Explores the hidden forces that shape our decision making process, revealing how rational thought is often subverted by irrational behaviors. ($1,500 iPhone anyone?)
+**Predictably Irrational**, by Ariely: Explores the hidden forces that shape our decision making process, revealing how rational thought is often subverted by irrational behaviors. ($1,500 iPhone anyone?)
 
-Behavioral Investing, by Montier: A comprehensive look at the psychological barriers to successful investing and strategies to overcome them.
+**Behavioral Investing**, by Montier: A comprehensive look at the psychological barriers to successful investing and strategies to overcome them.
 
-The Laws of Trading, by Lebron: Offers a unique perspective on decision-making through the lens of a professional trader at Jane Street.
+**The Laws of Trading**, by Lebron: Offers a unique perspective on decision-making through the lens of a professional trader at Jane Street.
 
-Statistical and Econometric Analysis
+**Statistical and Econometric Analysis**
 This category includes books that detail the use of time series analysis, econometrics, wavelet methods, and market modeling in understanding financial data, asset price dynamics, and volatility.
 
-Machine Learning for Algorithmic Trading, by Jansen: Introduces the use of machine learning to design and evaluate automated trading strategies, covering a wide range of tools and techniques. An absolute gold mine.
+**Machine Learning for Algorithmic Trading**, by Jansen: Introduces the use of machine learning to design and evaluate automated trading strategies, covering a wide range of tools and techniques. An absolute gold mine.
 
-Time Series Analysis, by Hamilton: An in-depth exploration of the statistical methods used in analyzing time series data, with applications in economics and finance.
+**Time Series Analysis**, by Hamilton: An in-depth exploration of the statistical methods used in analyzing time series data, with applications in economics and finance.
 
 Econometric Analysis, by Greene: A textbook covering the fundamentals and applications of econometrics in empirical research in economics and finance.
 
